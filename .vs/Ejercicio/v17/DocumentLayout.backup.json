@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\brian\\source\\repos\\Ejercicio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5AD451AD-3B6E-4D1C-A88B-D69B000879A9}|Ejercicio\\Ejercicio.csproj|c:\\users\\brian\\source\\repos\\ejercicio\\ejercicio\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AD451AD-3B6E-4D1C-A88B-D69B000879A9}|Ejercicio\\Ejercicio.csproj|solutionrelative:ejercicio\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AD451AD-3B6E-4D1C-A88B-D69B000879A9}|Ejercicio\\Ejercicio.csproj|c:\\users\\brian\\source\\repos\\ejercicio\\ejercicio\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AD451AD-3B6E-4D1C-A88B-D69B000879A9}|Ejercicio\\Ejercicio.csproj|solutionrelative:ejercicio\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AD451AD-3B6E-4D1C-A88B-D69B000879A9}|Ejercicio\\Ejercicio.csproj|c:\\users\\brian\\source\\repos\\ejercicio\\ejercicio\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5AD451AD-3B6E-4D1C-A88B-D69B000879A9}|Ejercicio\\Ejercicio.csproj|solutionrelative:ejercicio\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AD451AD-3B6E-4D1C-A88B-D69B000879A9}|Ejercicio\\Ejercicio.csproj|c:\\users\\brian\\source\\repos\\ejercicio\\ejercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AD451AD-3B6E-4D1C-A88B-D69B000879A9}|Ejercicio\\Ejercicio.csproj|solutionrelative:ejercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AD451AD-3B6E-4D1C-A88B-D69B000879A9}|Ejercicio\\Ejercicio.csproj|c:\\users\\brian\\source\\repos\\ejercicio\\ejercicio\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AD451AD-3B6E-4D1C-A88B-D69B000879A9}|Ejercicio\\Ejercicio.csproj|solutionrelative:ejercicio\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AD451AD-3B6E-4D1C-A88B-D69B000879A9}|Ejercicio\\Ejercicio.csproj|c:\\users\\brian\\source\\repos\\ejercicio\\ejercicio\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AD451AD-3B6E-4D1C-A88B-D69B000879A9}|Ejercicio\\Ejercicio.csproj|solutionrelative:ejercicio\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AD451AD-3B6E-4D1C-A88B-D69B000879A9}|Ejercicio\\Ejercicio.csproj|c:\\users\\brian\\source\\repos\\ejercicio\\ejercicio\\ejercicio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5AD451AD-3B6E-4D1C-A88B-D69B000879A9}|Ejercicio\\Ejercicio.csproj|solutionrelative:ejercicio\\ejercicio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\brian\\source\\repos\\Ejercicio\\Ejercicio\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Ejercicio\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\brian\\source\\repos\\Ejercicio\\Ejercicio\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Ejercicio\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T01:37:37.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\brian\\source\\repos\\Ejercicio\\Ejercicio\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio\\Program.cs",
+              "ToolTip": "C:\\Users\\brian\\source\\repos\\Ejercicio\\Ejercicio\\Program.cs",
+              "RelativeToolTip": "Ejercicio\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T01:18:50.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\brian\\source\\repos\\Ejercicio\\Ejercicio\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Ejercicio\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\brian\\source\\repos\\Ejercicio\\Ejercicio\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "Ejercicio\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T01:05:33.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\brian\\source\\repos\\Ejercicio\\Ejercicio\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "Ejercicio\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\brian\\source\\repos\\Ejercicio\\Ejercicio\\Models\\Role.cs",
+              "RelativeToolTip": "Ejercicio\\Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T00:55:53.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\brian\\source\\repos\\Ejercicio\\Ejercicio\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Ejercicio\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\brian\\source\\repos\\Ejercicio\\Ejercicio\\Models\\Employee.cs",
+              "RelativeToolTip": "Ejercicio\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T00:55:39.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\brian\\source\\repos\\Ejercicio\\Ejercicio\\appsettings.json",
+              "RelativeDocumentMoniker": "Ejercicio\\appsettings.json",
+              "ToolTip": "C:\\Users\\brian\\source\\repos\\Ejercicio\\Ejercicio\\appsettings.json",
+              "RelativeToolTip": "Ejercicio\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-18T00:51:08.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ejercicio",
+              "DocumentMoniker": "C:\\Users\\brian\\source\\repos\\Ejercicio\\Ejercicio\\Ejercicio.csproj",
+              "RelativeDocumentMoniker": "Ejercicio\\Ejercicio.csproj",
+              "ToolTip": "C:\\Users\\brian\\source\\repos\\Ejercicio\\Ejercicio\\Ejercicio.csproj",
+              "RelativeToolTip": "Ejercicio\\Ejercicio.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-18T00:38:39.446Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
